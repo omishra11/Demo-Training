@@ -1,2 +1,4 @@
 This program is for sorting of an array.
 Array is the basic datatype.
+
+Feature2 changes are the one which we wants to do.
