@@ -1,2 +1,4 @@
 This program is for sorting of an array.
 Array is the basic datatype.
+
+Going to take data from main.
