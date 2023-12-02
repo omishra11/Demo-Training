@@ -1,0 +1,3 @@
+[submodule "Gitbash-session"]
+	path = Gitbash-session
+	url = https://github.com/omishra11/Gitbash-session.git
